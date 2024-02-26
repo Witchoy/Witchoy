@@ -1,4 +1,8 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Witchoy/Witchoy/blob/851bb82802c9ceb8a4c0e31dbc763023b43f83fe/WitchoysLogo.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Witchoy/Witchoy/blob/851bb82802c9ceb8a4c0e31dbc763023b43f83fe/WitchoysLogo.png">
+ <img alt="Witchoy's Logo" src="https://github.com/Witchoy/Witchoy/blob/851bb82802c9ceb8a4c0e31dbc763023b43f83fe/WitchoysLogo.png">
+</picture>
 
 <!--
 **Witchoy/Witchoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
