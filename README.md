@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 
  - :man_student: I'm in my first year of my studies at the IUT Robert Schuman in Strasbourg, France.
- - :computer:	I'm currently studying IT, and especially development.
+ - :computer:	I'm currently studying IT, and especially software development.
  - :film_strip: Next to that i'm also a fan of films ! 
 
 ---
