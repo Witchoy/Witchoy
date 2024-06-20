@@ -24,7 +24,7 @@
 
  - :man_student: I'm in my first year of my studies at the IUT Robert Schuman in Strasbourg, France.
  - :computer:	I'm currently studying IT, and especially software development.
- - :film_strip: Next to that i'm also a fan of films ! 
+ - :film_strip: I'm also a fan of films, Video Games and Running ! 
 
 ---
 
