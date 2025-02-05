@@ -1,6 +1,6 @@
 <div id="header" align="center">
  <source media="(prefers-color-scheme: dark)" srcset="images/logo.png">
- <img alt="Witchoy's Logo" src="images/WitchoysLogo-116x112.png">
+ <img alt="Witchoy's Logo" src="images/Logo.png">
 </div>
 
 <div i="badges" align="center">
