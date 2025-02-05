@@ -22,7 +22,7 @@
 ---
 ### :man_technologist: About Me :
 
- - :man_student: I'm in my first year of my studies at the IUT Robert Schuman in Strasbourg, France.
+ - :man_student: I'm in my second year of my studies at the IUT Robert Schuman in Strasbourg, France.
  - :computer:	I'm currently studying IT, and especially software development.
  - :film_strip: I'm also a fan of films, Video Games and Running ! 
 
@@ -48,11 +48,6 @@
 
 ### :fire: My Stats :
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Witchoy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :loud_sound: Currently listenning :
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=17j12o4gaaiaaq34eudrt1d05&cover_image=false&theme=default&show_offline=false&background_color=424342&interchange=true&bar_color=b14e4e&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=17j12o4gaaiaaq34eudrt1d05&redirect=true)
 
 ---
 <!--
