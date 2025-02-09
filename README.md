@@ -9,13 +9,11 @@
  <a href="https://www.linkedin.com/in/jules-goy-9b340a2b7/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo"> </a>
  <img src="https://komarev.com/ghpvc/?username=Witchoy&style=for-the-badge&color=blue" alt="Profil views counter"/>
-
 </div>
-
 <div id="textheader" align="center">
  <h1>
   Hi there !
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpyb3A5NDl2ZWExdDhhcndjZXl0NXRxa3Vqa3N3dXFmeDFicTk2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TKcnPuNL3VdTah6ymA/giphy.gif" width="50px"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2dmeno5cjFqbXN0NDB0aXB1NWFvMHZucG5lMW4wYTY3a3A0YWticiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SyEMEu8W7quRA4IAjr/giphy.gif" width="50px"/>
  </h1>
 </div>
 
