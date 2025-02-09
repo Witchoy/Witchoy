@@ -1,8 +1,8 @@
-```
+```java
 class SoftwareEngineer extends Human 
 {
     private String _name;
-    private List<String> _passions_;
+    private List<String> _passions;
 
     public void SoftwareEngineer() 
     {
@@ -13,7 +13,7 @@ class SoftwareEngineer extends Human
 
     public void sayHi()
     {
-        System.out.println("Hello there, have fun wondering around my profil :)");
+        System.out.println("Hello there, have fun wondering around my profil.");
     }
 }
 ```
