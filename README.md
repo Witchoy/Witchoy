@@ -17,7 +17,6 @@
  </h1>
 </div>
 
----
 ```java
 class SoftwareEngineer extends Human 
 {
@@ -28,7 +27,7 @@ class SoftwareEngineer extends Human
     {
         super();
         this._name = "Jules";
-        this._skills = {"Films", "Video Games", "Rock", "Running"};
+        this._passions = {"Films", "Video Games", "Rock", "Running"};
     }
 
     public void sayHi()
