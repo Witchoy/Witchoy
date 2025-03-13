@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <source media="(prefers-color-scheme: dark)" srcset="images/logo.png">
+ <source media="(prefers-color-scheme: light)" srcset="images/logo.png">
  <img alt="Witchoy's Logo" src="images/Logo_112x112.png">
 </div>
 
