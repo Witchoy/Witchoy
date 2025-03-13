@@ -48,6 +48,7 @@ class SoftwareEngineer extends Human
 </div>
 
 <div>
-    <h2> :mortar_board: Right now </h2>
-    <p>Right now, I'm a second-year Computer Science student (BUT2 Informatique) in Strasbourg! I'm currently looking for a two-month internship starting in mid-April, and I'm also searching for a day-release contract in software development starting in September.</p>
+    <h2> 🎓 Right Now </h2>
+    <p>I'm a second-year Computer Science student (BUT2 Informatique) in Strasbourg! Currently, I'm looking for a two-month internship starting in mid-April, and I'm also searching for a day-release contract in software development starting in September. Additionally, I'm working on importing more of my projects from GitLab to GitHub!</p>
 </div>
+
