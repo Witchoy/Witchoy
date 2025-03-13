@@ -13,7 +13,7 @@
 <div id="textheader" align="center">
  <h1>
   Hi there !
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2dmeno5cjFqbXN0NDB0aXB1NWFvMHZucG5lMW4wYTY3a3A0YWticiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SyEMEu8W7quRA4IAjr/giphy.gif" width="50px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhpY3h2eGtvMThjZG1ieHEzeHYybW1jb3I5enBwdWJlc2p2N3NvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cCBMBrqVdMSJKQiP72/giphy.gif" width="50px"/>
  </h1>
 </div>
 
@@ -37,12 +37,20 @@ class SoftwareEngineer extends Human
 }
 ```
 <div>
-    <h2> :hammer_and_wrench: Languages and Tools I've already worked with : </h2>
+    <h2> :hammer_and_wrench: Languages and Tools I use: </h2>
     <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cs,java,html,js,ts,laravel,react,sqlite&theme=light" />
+        <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,js,ts,sqlite&theme=light" />
         </br>
-        <img src="https://skillicons.dev/icons?i=linux,vscode,gitlab,godot,unity,unreal&theme=light" />
+        <img src="https://skillicons.dev/icons?i=linux,vscode,androidstudio,idea,gitlab&theme=light" />
+        </br>
+        <img src="https://skillicons.dev/icons?i=laravel,react&theme=light" />
+    </a>
+    </p>
+    <h2> Languages and Tools I'm learning / having fun with: </h2>
+    <p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,godot,unity,unreal&theme=light" />
     </a>
     </p>
 </div>
