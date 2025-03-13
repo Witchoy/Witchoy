@@ -47,7 +47,7 @@ class SoftwareEngineer extends Human
         <img src="https://skillicons.dev/icons?i=laravel,react&theme=light" />
     </a>
     </p>
-    <h2> Languages and Tools I'm learning / having fun with: </h2>
+    <h2> Languages and Tools I'm learning on my own / having fun with: </h2>
     <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,godot,unity,unreal&theme=light" />
