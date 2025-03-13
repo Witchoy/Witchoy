@@ -37,7 +37,7 @@ class SoftwareEngineer extends Human
 }
 ```
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools I've already worked with :
 <div>
     <p align="center">
     <a href="https://skillicons.dev">
