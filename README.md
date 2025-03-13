@@ -52,4 +52,8 @@ class SoftwareEngineer extends Human
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodeJS" alt="nodeJS" width="40" height="40"/>&nbsp;
 </div>
 
+<div>
+ [![My Skills](https://skillicons.dev/icons?i=java,c,cs,gitlab,godot,html,js,laravel,linux,react,sqlite,ts,unity,unreal,vscode&theme=light)](https://skillicons.dev)
+</div>
+
 ---
