@@ -36,9 +36,8 @@ class SoftwareEngineer extends Human
     }
 }
 ```
----
-### :hammer_and_wrench: Languages and Tools I've already worked with :
 <div>
+    <h2> :hammer_and_wrench: Languages and Tools I've already worked with : </h2>
     <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cs,java,html,js,ts,laravel,react,sqlite&theme=light" />
@@ -48,4 +47,7 @@ class SoftwareEngineer extends Human
     </p>
 </div>
 
----
+<div>
+    <h2> :mortar_board: Right now </h2>
+    <p>Right now, I'm a second-year Computer Science student (BUT2 Informatique) in Strasbourg! I'm currently looking for a two-month internship starting in mid-April, and I'm also searching for a day-release contract in software development starting in September.</p>
+</div>
