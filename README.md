@@ -32,7 +32,7 @@ class SoftwareEngineer extends Human
 
     public void sayHi()
     {
-        System.out.println("Hello there, have fun wondering around my profil.");
+        System.out.println("Hello there, have fun wandering around my profil.");
     }
 }
 ```
