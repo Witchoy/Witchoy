@@ -40,7 +40,7 @@ class SoftwareEngineer extends Human
     <h2> :hammer_and_wrench: Languages and Tools I use: </h2>
     <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,js,ts,sqlite&theme=light" />
+        <img src="https://skillicons.dev/icons?i=c,cs,java,sqlite&theme=light" />
         </br>
         <img src="https://skillicons.dev/icons?i=linux,vscode,androidstudio,idea,gitlab&theme=light" />
         </br>
