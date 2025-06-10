@@ -1,8 +1,3 @@
-<div id="header" align="center">
- <source media="(prefers-color-scheme: light)" srcset="images/logo.png">
- <img alt="Witchoy's Logo" src="images/Logo_112x112.png">
-</div>
-
 <div i="badges" align="center">
  <a href="https://github.com/Witchoy">
  <img src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=discord&logoColor=white" alt="GitHub logo"> </a>
