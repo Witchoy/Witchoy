@@ -1,6 +1,6 @@
 <div i="badges" align="center">
  <a href="https://github.com/Witchoy">
- <img src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=discord&logoColor=white" alt="GitHub logo"> </a>
+ <img src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo"> </a>
  <a href="https://www.linkedin.com/in/jules-goy-9b340a2b7/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo"> </a>
  <img src="https://komarev.com/ghpvc/?username=Witchoy&style=for-the-badge&color=blue" alt="Profil views counter"/>
