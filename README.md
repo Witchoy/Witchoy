@@ -52,6 +52,6 @@ class SoftwareEngineer extends Human
 
 <div>
     <h2> 🎓 Right Now </h2>
-    <p>I'm a third-year Computer Science student (BUT3 Informatique) in Strasbourg! Currently, I'm looking for an work-study contract in software development starting in October. Additionally, I'm working on importing more of my projects from GitLab to GitHub!</p>
+    <p>I'm a third-year Computer Science student (BUT3 Informatique) in Strasbourg! I'm currently working on importing more of my projects from GitLab to GitHub!</p>
 </div>
 
