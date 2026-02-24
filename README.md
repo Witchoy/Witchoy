@@ -32,14 +32,14 @@ class SoftwareEngineer extends Human
 }
 ```
 <div>
-    <h2> :hammer_and_wrench: Languages and Tools I use: </h2>
+    <h2> :hammer_and_wrench: Languages and Tools I use/I've used: </h2>
     <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cs,java,sqlite&theme=light" />
+        <img src="https://skillicons.dev/icons?i=c,cs,ts,java,python,sqlite&theme=dark" />
         </br>
-        <img src="https://skillicons.dev/icons?i=linux,vscode,androidstudio,idea,gitlab&theme=light" />
+        <img src="https://skillicons.dev/icons?i=linux,debian,docker,vscode,androidstudio,gitlab&theme=dark" />
         </br>
-        <img src="https://skillicons.dev/icons?i=laravel,react&theme=light" />
+        <img src="https://skillicons.dev/icons?i=vuejs,laravel,react,django&theme=dark" />
     </a>
     </p>
     <h2> Languages and Tools I'm learning on my own / having fun with: </h2>
@@ -52,6 +52,6 @@ class SoftwareEngineer extends Human
 
 <div>
     <h2> 🎓 Right Now </h2>
-    <p>I'm a third-year Computer Science student (BUT3 Informatique) in Strasbourg! I'm currently working on importing more of my projects from GitLab to GitHub!</p>
+    <p>I'm a third-year Computer Science student (BUT3 Informatique) in Strasbourg! I'm at the same time working as a junior software developper!</p>
 </div>
 
