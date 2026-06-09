@@ -35,17 +35,17 @@ class SoftwareEngineer extends Human
     <h2> :hammer_and_wrench: Languages and Tools I use/I've used: </h2>
     <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cs,ts,java,python,sqlite&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=cs,ts,java,python,sqlite&theme=dark" />
         </br>
-        <img src="https://skillicons.dev/icons?i=linux,debian,docker,vscode,androidstudio,gitlab&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=debian,docker,vscode,gitlab&theme=dark" />
         </br>
-        <img src="https://skillicons.dev/icons?i=vuejs,laravel,react,django&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=vuejs,django&theme=dark" />
     </a>
     </p>
     <h2> Languages and Tools I'm learning on my own / having fun with: </h2>
     <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,godot,unity,unreal&theme=light" />
+        <img src="https://skillicons.dev/icons?i=godot,unity,unreal&theme=light" />
     </a>
     </p>
 </div>
