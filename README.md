@@ -52,6 +52,6 @@ class SoftwareEngineer extends Human
 
 <div>
     <h2> 🎓 Right Now </h2>
-    <p>Junior Software Game Developer, graduating in 2026 in Strasbourg! I'm at the same time working as a junior software developper!</p>
+    <p>Junior Software Developer, graduating in 2026 in Strasbourg! I'm at the same time working as a junior software developper!</p>
 </div>
 
