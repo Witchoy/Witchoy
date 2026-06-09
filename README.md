@@ -32,10 +32,10 @@ class SoftwareEngineer extends Human
 }
 ```
 <div>
-    <h2> :hammer_and_wrench: Languages and Tools I use/I've used: </h2>
+    <h2> :hammer_and_wrench: Languages and Tools I use: </h2>
     <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,ts,java,python,sqlite&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=cs,java,python&theme=dark" />
         </br>
         <img src="https://skillicons.dev/icons?i=debian,docker,vscode,gitlab&theme=dark" />
         </br>
