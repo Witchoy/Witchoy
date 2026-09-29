@@ -35,23 +35,17 @@ class SoftwareEngineer extends Human
     <h2> :hammer_and_wrench: Languages and Tools I use: </h2>
     <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,java,python&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=cs,python&theme=dark" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=godot,unity,unreal&theme=light" />
         </br>
         <img src="https://skillicons.dev/icons?i=debian,docker,vscode,gitlab&theme=dark" />
-        </br>
-        <img src="https://skillicons.dev/icons?i=vuejs,django&theme=dark" />
-    </a>
-    </p>
-    <h2> Languages and Tools I'm learning on my own / having fun with: </h2>
-    <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=godot,unity,unreal&theme=light" />
     </a>
     </p>
 </div>
 
 <div>
     <h2> 🎓 Right Now </h2>
-    <p>Junior Software Developer, graduating in 2026 in Strasbourg! I'm at the same time working as a junior software developper!</p>
+    <p>Junior Game Developper, graduating in 2023 from Isart Digital Pari!</p>
 </div>
 
