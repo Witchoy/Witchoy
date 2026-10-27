@@ -46,6 +46,6 @@ class SoftwareEngineer extends Human
 
 <div>
     <h2> 🎓 Right Now </h2>
-    <p>Junior Game Developper, graduating in 2023 from Isart Digital Pari!</p>
+    <p>Junior Gameplay Developper, graduating in 2030 from Isart Digital Paris!</p>
 </div>
 
